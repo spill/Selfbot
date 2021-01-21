@@ -1,2 +1,2 @@
 # Selfbot
-A forked and updated version of an outdated selfbot that i've personalized
+A selfbot that i've had for awhile and have been progressively updating
